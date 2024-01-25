@@ -26,7 +26,7 @@ const __dirname = dirname(__filename);
 const app = express();
 
 let corsOptions = {
-    origin: "http://localhost:8081"
+    origin: "http://localhost:8081 || https://letsmakantogether-backend.onrender.com || https://letsmakantogether.onrender.com"
 };
 
 app.use(cors(corsOptions));
