@@ -1,12 +1,12 @@
 import { Sequelize } from 'sequelize';
 
 const sequelize = new Sequelize(
-    process.env.DB_NAME || 'letsmakantogether',
-    process.env.DB_USER || 'root',
-    process.env.DB_PASSWORD || 'YOUR_PASSWORD',
+    'if0_35875886_Letsmakantogether_mysql',
+     'if0_35875886',
+    'Qk1cE6GnsT',
     {
-        host: process.env.DB_HOST || 'localhost',
-        port: process.env.DB_PORT || 3306,
+        host: 'sql113.infinityfree.com',
+        port:  3306,
         dialect: 'mysql',
         define: {
             freezeTableName: true,
