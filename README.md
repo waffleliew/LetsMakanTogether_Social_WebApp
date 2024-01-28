@@ -4,6 +4,10 @@
 
 At Let'sMakanTogether, we believe that sharing a meal with friends is one of life's simple joys and it can be challenging to do so in today's fast-paced world. That's why we've created this platform that makes it easier than ever to connect with like-minded food enthusiasts and turn dining into a social experience.
 
+## Demo
+Video demonstration: https://www.youtube.com/watch?v=yR5GD1u_z-w
+URL: https://letsmakantogether.onrender.com/
+
 ## Directory Structure
 
 - `vue`: This directory contains the Vue.js frontend of the application.
