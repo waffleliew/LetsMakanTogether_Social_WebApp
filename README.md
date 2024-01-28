@@ -11,6 +11,8 @@ At Let'sMakanTogether, we believe that sharing a meal with friends is one of lif
 - `nginx`: This directory contains the configuration for the Nginx server that hosts the frontend.
 - `database`: This directory contains the MySQL database scripts.
 - `docker`: This directory contains the Docker configuration for the Vue + Nginx, Node, and MySQL services.
+- `SRS Report`: This file contains Software Requirements Specification report for LetsMakanTogether
+
 
 ## Getting Started
 
